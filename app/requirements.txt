@@ -1,0 +1,9 @@
+fastapi
+openai
+pandas
+uvicorn
+pymupdf
+python-docx
+python-multipart
+openpyxl
+xlsxwriter
