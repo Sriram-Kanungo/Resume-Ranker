@@ -20,6 +20,7 @@ Setup Instructions
 Prerequisites
 Python 3.8 or higher
 pip (Python package installer)
+
 Step 1: Clone the Repository
 
 git clone https://github.com/yourusername/resume-scoring-api.git
